@@ -1,0 +1,199 @@
+{
+  "data": {
+    "title": "En directo",
+    "description": ""
+  },
+  "contents": [
+    {
+      "title": "Señal 1",
+      "id": "senal-1",
+      "cover": "https://album.mediaset.es/cimg/2024/01/11/ghduo-24h_da39.jpg",
+      "chat": "https://chat1.granhermano.cc/",
+      "video": {
+        "normal": "",
+        "backup": [
+          {
+            "id": "LIVE01",
+            "url": "//ok.ru/videoembed/6407218470556",
+            "enable": true
+          },
+          {
+            "id": "LIVE02",
+            "url": "//ok.ru/videoembed/6407224106652",
+            "enable": true
+          },
+          {
+            "id": "LIVE03",
+            "url": "//ok.ru/videoembed/6407228497564",
+            "enable": true
+          },
+          {
+            "id": "LIVE04",
+            "url": "//ok.ru/videoembed/6407272144540",
+            "enable": true
+          },
+          {
+            "id": "LIVE05",
+            "url": "//ok.ru/videoembed/6407273717404",
+            "enable": true
+          },
+          {
+            "id": "LIVE06",
+            "url": "//ok.ru/videoembed/6372619656860",
+            "enable": false
+          },
+          {
+            "id": "LIVE07",
+            "url": "//ok.ru/videoembed/6372620246684",
+            "enable": false
+          }
+        ]
+      },
+      "app": false,
+      "custom_error": "La señal no se encuentra disponible, intenta más tarde",
+      "enable": true
+    },
+    {
+      "title": "Señal PLUS",
+      "id": "senal-plus",
+      "cover": "https://album.mediaset.es/cimg/2024/01/11/ghduo-24h-plus_da39.jpg",
+      "chat": "https://chat2.granhermano.cc/",
+      "enable": true,
+      "video": {
+        "dash": "https://directos.mediaset.es/oripremium05/live/premium05/mpd-cenc/mpd-cenc.isml/.mpd?t=1",
+        "normal": "",
+        "backup": [
+          {
+            "id": "LIVE01",
+            "url": "//ok.ru/videoembed/6319856295580",
+            "enable": true
+          },
+          {
+            "id": "LIVE02",
+            "url": "//ok.ru/videoembed/6319858785948",
+            "enable": true
+          },
+          {
+            "id": "LIVE03",
+            "url": "//ok.ru/videoembed/6319859768988",
+            "enable": true
+          },
+          {
+            "id": "LIVE04",
+            "url": "//ok.ru/videoembed/6319861079708",
+            "enable": true
+          },
+          {
+            "id": "LIVE05",
+            "url": "//ok.ru/videoembed/6319861866140",
+            "enable": true
+          },
+          {
+            "id": "LIVE06",
+            "url": "//ok.ru/videoembed/6319863439004",
+            "enable": true
+          },
+          {
+            "id": "LIVE07",
+            "url": "//ok.ru/videoembed/6319864487580",
+            "enable": true
+          },
+          {
+            "id": "LIVE08",
+            "url": "//ok.ru/videoembed/6319865405084",
+            "enable": true
+          },
+          {
+            "id": "LIVE09",
+            "url": "//ok.ru/videoembed/6319866584732",
+            "enable": true
+          },
+          {
+            "id": "LIVE10",
+            "url": "//ok.ru/videoembed/6319868747420",
+            "enable": true
+          }
+        ]
+      },
+      "app": false,
+      "custom_error": "La señal no se encuentra disponible, intenta más tarde",
+      "drm": {
+          "clearKeys": {
+            "0abdd163b0a44ce3a81cb06b38396d9e": "a8a2e2554a0e18d2245b520eba50cdd0"
+          }
+        }
+    },
+    {
+      "title": "Debate GH VIP PLUS",
+      "id": "debate-plus",
+      "cover": "https://album.mediaset.es/parrillas/2023/09/13/082247dd8031ea1248799507e3da2aa11694598614.jpg",
+      "chat": "",
+      "enable": false,
+      "video": {
+        "dash": "https://directos.mediaset.es/oripremium04/live/premium04/mpd-cenc/mpd-cenc.isml/.mpd?t=1",
+        "normal": "",
+        "backup": [
+          {
+            "id": "LIVE01",
+            "url": "//ok.ru/videoembed/6319829819036",
+            "enable": true
+          }
+        ]
+      },
+      "app": false,
+      "custom_error": "La señal no se encuentra disponible, intenta más tarde",
+      "drm": {
+          "clearKeys": {
+            "0abdd163b0a44ce3a81cb06b38396d9e": "a8a2e2554a0e18d2245b520eba50cdd0"
+          }
+        }
+    },
+    {
+      "title": "Telecinco",
+      "id": "telecinco",
+      "cover": "https://album.mediaset.es/eimg/2019/12/11/bxL4goyXJpmn9qOT9bdBy4.jpg",
+      "chat": "https://chat2.granhermano.cc/",
+      "enable": false,
+      "video": {
+        "dash": "https://tvup-live.secure.footprint.net/telecincohd/telecincohd.mpd",
+        "normal": "",
+        "backup": [
+          {
+            "id": "LIVE01",
+            "url": "//ok.ru/videoembed/6407273717404",
+            "enable": true
+          },
+          {
+            "id": "LIVE02",
+            "url": "//ok.ru/videoembed/6354479160988",
+            "enable": true
+          },
+          {
+            "id": "LIVE03",
+            "url": "//ok.ru/videoembed/6354483224220",
+            "enable": true
+          },
+          {
+            "id": "LIVE04",
+            "url": "//ok.ru/videoembed/6354484928156",
+            "enable": true
+          },
+          {
+            "id": "LIVE05",
+            "url": "//ok.ru/videoembed/6415485640348",
+            "enable": true
+          }
+        ]
+      },
+      "app": false,
+      "custom_error": "La señal no se encuentra disponible, intenta más tarde",
+      "drm": {
+          "clearKeys": {
+            "dce5deb54b865167800919adc9e02785": "1baeb5122a0d4c551b67342249eea325",
+            "7e107183004d5751b412c16b79ad57ae":"2842b34a46e5564d5c8c63851c0e3074",
+            "fd3d89fcb6915064a798c8b67a7c8052":"3c2728904658076c9ba84252d777f2e2"
+    }
+        }
+    }
+  ]
+}

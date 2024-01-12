@@ -1,0 +1,98 @@
+[
+  {
+    "content": "temporadas",
+    "tabs": [
+      {
+        "title": "Galas",
+        "id": "galas",
+        "cover": "https://album.mediaset.es/cimg/807010/2019/11/06/1t689u7e6ulg_ghvip7_gala1b_3e83.jpg",
+        "enable": true
+      }
+    ],
+    "parent": "gh",
+    "season": "7",
+    "id": "T07",
+    "title": "GH VIP 7",
+    "image": "https://album.mediaset.es/cimg/807010/2019/11/06/1t689u7e6ulg_ghvip7_gala1b_3e83.jpg"
+  },
+  {
+    "content": "temporadas",
+    "tabs": [
+      {
+        "title": "Galas",
+        "id": "galas",
+        "cover": "https://album.mediaset.es/cimg/2023/09/15/ghvip-1_fd2a.jpg",
+        "enable": true
+      },
+      {
+        "title": "Límite 48 horas",
+        "id": "limite-48h",
+        "cover": "https://album.mediaset.es/cimg/2023/09/20/limite48h_3858.jpg",
+        "enable": true
+      },
+      {
+        "title": "Debates",
+        "id": "debates",
+        "cover": "https://album.mediaset.es/cimg/2023/09/18/ghvipdebate-1_c060.jpg",
+        "enable": true
+      },
+      {
+        "title": "Última Hora",
+        "id": "ultima-hora",
+        "cover": "https://album.mediaset.es/cimg/2023/11/22/mitele2023-11-22-23h09m10s883_da39.jpg",
+        "enable": true
+      },
+      {
+        "title": "Resúmenes diarios",
+        "id": "resumenes",
+        "cover": "https://album.mediaset.es/cimg/2023/09/18/logopng-5_0034.jpg",
+        "enable": true
+      }
+    ],
+    "parent": "gh",
+    "season": "8",
+    "id": "T08",
+    "title": "GH VIP 8",
+    "image": "https://album.mediaset.es/cimg/2023/09/11/thumbnailghvip2023_b3d9.jpg"
+  },
+  {
+    "content": "temporadas",
+    "tabs": [
+      {
+        "title": "Galas",
+        "id": "galas",
+        "cover": "https://album.mediaset.es/cimg/2023/09/15/ghvip-1_fd2a.jpg",
+        "enable": false
+      },
+      {
+        "title": "Límite 48 horas",
+        "id": "limite-48h",
+        "cover": "https://album.mediaset.es/cimg/2023/09/20/limite48h_3858.jpg",
+        "enable": false
+      },
+      {
+        "title": "Debates",
+        "id": "debates",
+        "cover": "https://album.mediaset.es/cimg/2023/09/18/ghvipdebate-1_c060.jpg",
+        "enable": false
+      },
+      {
+        "title": "Última Hora",
+        "id": "ultima-hora",
+        "cover": "https://album.mediaset.es/cimg/2023/10/02/mitele2023-10-02-22h46m47s276_ff84.jpg",
+        "enable": false
+      },
+      {
+        "title": "Resúmenes diarios",
+        "id": "resumenes",
+        "cover": "https://album.mediaset.es/cimg/2023/09/18/logopng-5_0034.jpg",
+        "enable": false
+      }
+    ],
+    "parent": "gh-duo",
+    "season": "2",
+    "id": "T02",
+    "title": "GH DÚO 2",
+    "image": "https://album.mediaset.es/eimg/2023/12/29/gh-duo_9943.jpg"
+  }
+]

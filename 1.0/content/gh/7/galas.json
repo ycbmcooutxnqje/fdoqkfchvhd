@@ -1,0 +1,231 @@
+{
+  "programa": "GH VIP",
+  "title": "Galas",
+  "content": [
+    {
+      "content": "video",
+      "season": "7",
+      "image": "https://album.mediaset.es/cimg/807010/2019/11/06/1t689u7e6ulg_ghvip7_gala1b_3e83.jpg",
+      "contentId": "1",
+      "category": "galas",
+      "id": "MDSVOD20190911_0229",
+      "video": {
+        "normal": "https://vbd.mitele.es/orivod/vod/lightflow/90/ZT/90ZTJoaTE63ytj4In-UAY4X8ylxuy9v1/main.ism/picky.m3u8",
+        "backup": ""
+      },
+      "title": "Gala 1",
+      "desc": "¡Noche de sorpresas y tensiones en el arranque de la séptima edición! Los concursantes entraron emocionados a la casa. Sin embargo, nada es lo que parece. La casa guardaba un secreto de alto voltaje: un búnker donde los 'VIPS' han tenido que trasladarse. (11/09/2019).",
+      "parent": "gh"
+    },
+    {
+      "content": "video",
+      "season": "7",
+      "parent": "gh",
+      "image": "https://album.mediaset.es/cimg/807010/2019/11/06/xy7e3qo6a3z4_ghvip7_gala2b_71d4.jpg",
+      "contentId": "2",
+      "category": "galas",
+      "id": "MDSVOD20190912_0204",
+      "video": {
+        "normal": "https://vbd.mitele.es/orivod/vod/lightflow/J4/M2/J4M2JoaTE6hywa4YlyMm_KN2JDu2ioXG/main.ism/picky.m3u8",
+        "backup": ""
+      },
+      "title": "Gala 2",
+      "desc": "Los concursantes llevan solo un día de convivencia pero ya han comenzado a aflorar las primeras tensiones tras nominar a la cara en la segunda gala. Tres de ellos se batirán en duelo ante el público para continuar en la casa (12/09/2019)."
+    },
+    {
+      "content": "video",
+      "season": "7",
+      "parent": "gh",
+      "image": "https://album.mediaset.es/cimg/807010/2019/11/06/yev4f9rxqwhr_ghvip7_gala3b_bfd4.jpg",
+      "contentId": "3",
+      "category": "galas",
+      "id": "MDSVOD20190919_0224",
+      "video": {
+        "normal": "https://vbd.mitele.es/orivod/vod/lightflow/Fx/ZG/FxZGhpaTE6a3FvY_C504De39HeYU07y0/main.ism/picky.m3u8",
+        "backup": ""
+      },
+      "title": "Gala 3",
+      "desc": "Irene Junquera o Anabel Pantoja. Una de las dos concursantes se enfrenta a la expulsión. Además, la casa se encuentra al límite tras celebrarse una fiesta en la que la tensión fue máxima (19/09/2019)."
+    },
+    {
+      "content": "video",
+      "season": "7",
+      "parent": "gh",
+      "image": "https://album.mediaset.es/cimg/807010/2019/11/06/ucsg8v5n7u5m_ghvip7_gala4b_66f2.jpg",
+      "contentId": "4",
+      "category": "galas",
+      "id": "MDSVOD20190925_0249",
+      "video": {
+        "normal": "https://vbd.mitele.es/orivod/vod/lightflow/hn/bm/hnbm9qaTE67OD_Ti_CKhA7rDtxaMMvWh/main.ism/picky.m3u8",
+        "backup": ""
+      },
+      "title": "Gala 4",
+      "desc": "Hugo y Noemí se enfrentan al veredicto de la audiencia en un reñido duelo. Además, la noche termina con tres nuevos nominados. En plató, Jorge Javier Vázquez y Raquel Salazar firman la paz (26/09/2019)."
+    },
+    {
+      "content": "video",
+      "season": "7",
+      "parent": "gh",
+      "image": "https://album.mediaset.es/cimg/807010/2019/11/06/qhn01c4uqy07_ghvip7_gala5b_4952.jpg",
+      "contentId": "5",
+      "category": "galas",
+      "id": "MDSVOD20191002_0225",
+      "video": {
+        "normal": "https://vbd.mitele.es/orivod/vod/lightflow/92/NT/92NTNsaTE6sucx-0MlngoB_bXcxKTZJC/main.ism/picky.m3u8",
+        "backup": ""
+      },
+      "title": "Gala 5",
+      "desc": "Expectación máxima en la sala de expulsiones, donde se decide el final del concurso para Mila Ximénez o Dinio (03/10/2019)."
+    },
+    {
+      "content": "video",
+      "season": "7",
+      "parent": "gh",
+      "image": "https://album.mediaset.es/cimg/807010/2019/11/06/qey2hz2yky6h_ghvip7_gala6b_79f1.jpg",
+      "contentId": "6",
+      "category": "galas",
+      "id": "MDSVOD20191010_0223",
+      "video": {
+        "normal": "https://vbd.mitele.es/orivod/vod/lightflow/2M/TZ/2MTZtaTE6VpMhxlQBU9ZrcXNdg9HBjS/main.ism/picky.m3u8",
+        "backup": ""
+      },
+      "title": "Gala 6",
+      "desc": "Kiko Jiménez ha tenido que explicarle cara a cara a su novia Sofía Suescun su relación con Estela Grande. Además, hay un nuevo expulsado y tres nominados (10/10/2019)."
+    },
+    {
+      "content": "video",
+      "season": "7",
+      "parent": "gh",
+      "image": "https://album.mediaset.es/cimg/807010/2019/11/06/vcds9tbmckes_ghvip7_gala7bc_f617.jpg",
+      "contentId": "7",
+      "category": "galas",
+      "id": "MDSVOD20191017_0221",
+      "video": {
+        "normal": "https://vbd.mitele.es/orivod/vod/lightflow/95/Nm/95NmJuaTE6re9hfR9Nck5eVX0-78eU8a/main.ism/picky.m3u8",
+        "backup": ""
+      },
+      "title": "Gala 7",
+      "desc": "Los concursantes han recibido la llamada de un familiar en el confesionario. Además, se resuelve el duelo entre Adara e Irene Junquera y hay tres nuevos nominados (17/10/2019)."
+    },
+    {
+      "content": "video",
+      "season": "7",
+      "parent": "gh",
+      "image": "https://album.mediaset.es/cimg/807010/2019/11/06/v6ow4yzt1d9z_ghvip7_gala8_9749.jpg",
+      "contentId": "8",
+      "category": "galas",
+      "id": "MDSVOD20191024_0230",
+      "video": {
+        "normal": "https://vbd.mitele.es/orivod/vod/lightflow/13/Z2/13Z2lvaTE6mmGp1RtPqmReZwNWypr_of/main.ism/picky.m3u8",
+        "backup": ""
+      },
+      "title": "Gala 8",
+      "desc": "Alba Carrillo se bate en duelo contra 'El Cejas', discute en directo con su grupo, vive un cruce de reproches con su madre y recibe la regañina de Jorge Javier Vázquez por cargar contra el programa (24/10/2019)."
+    },
+    {
+      "content": "video",
+      "season": "7",
+      "parent": "gh",
+      "image": "https://album.mediaset.es/cimg/807010/2019/11/06/sms2gtdioi0n_ghvip7_gala9b_e075.jpg",
+      "contentId": "9",
+      "category": "galas",
+      "id": "MDSVOD20191031_0251",
+      "video": {
+        "normal": "https://vbd.mitele.es/orivod/vod/lightflow/g0/NX/g0NXFwaTE6xxtg7D3ravVxsneC3gdcyp/main.ism/picky.m3u8",
+        "backup": ""
+      },
+      "title": "Gala 9",
+      "desc": "La noche de Halloween nos brinda muchos momentazos gracias al pánico que viven los concursantes con el pasaje del terror. Además, uno de los dos aspirantes, Hugo o El Cejas, se convierte en concursante repescado (31/10/2019)."
+    },
+    {
+      "content": "video",
+      "season": "7",
+      "parent": "gh",
+      "image": "https://album.mediaset.es/cimg/807010/2019/11/12/kyk99me9z94t_ghvip7_gala10b_d5e2.jpg",
+      "contentId": "10",
+      "category": "galas",
+      "id": "MDSVOD20191107_0218",
+      "video": {
+        "normal": "https://vbd.mitele.es/orivod/vod/lightflow/1v/b3/1vb3NxaTE6mguwQkSbRJzYy6gXLbmqdi/main.ism/picky.m3u8",
+        "backup": ""
+      },
+      "title": "Gala 10",
+      "desc": "Alba o Gianmarco: uno de los dos se despide de la casa de Guadalix y de su experiencia en GH VIP."
+    },
+    {
+      "content": "video",
+      "season": "7",
+      "parent": "gh",
+      "image": "https://album.mediaset.es/cimg/807010/2019/11/18/xdvueusy13pu_ghvip7_gala11b_6f56.jpg",
+      "contentId": "11",
+      "category": "galas",
+      "id": "MDSVOD20191114_0233",
+      "video": {
+        "normal": "https://vbd.mitele.es/orivod/vod/lightflow/Np/eX/NpeXZyaTE6_HFpXorOb8ZPQzeqWo29Pw/main.ism/picky.m3u8",
+        "backup": ""
+      },
+      "title": "Gala 11",
+      "desc": "La noche empieza con lágrimas desde que el Maestro y Adara se sientan juntos en la sala de expulsiones para saber quién debe abandonar el concurso. El expulsado se reencuentra con su pasado amoroso y un concursante se enfrenta a la prueba del hielo convirtiéndose en el nuevo jefe de la casa (14/11/2019)."
+    },
+    {
+      "content": "video",
+      "season": "7",
+      "parent": "gh",
+      "image": "https://album.mediaset.es/cimg/807010/2019/11/29/a5nkthqu23g8_ghvip7_gala13b_f398.jpg",
+      "contentId": "13",
+      "category": "galas",
+      "id": "MDSVOD20191129_0071",
+      "video": {
+        "normal": "https://vbd.mitele.es/orivod/vod/lightflow/Jo/bj/JobjR1aTE6Ahbfvq8CN1FdbYtqRM0y_Y/main.ism/picky.m3u8",
+        "backup": ""
+      },
+      "title": "Gala 13",
+      "desc": "El padre de Adara ha subido a Guadalix de la Sierra para hablar con su hija. La concursante se ha roto al pensar que podría haber hecho daño a Hugo Sierra. Por otro lado, Jorge Javier Vázquez se despide de los concursantes (28/11/2019)."
+    },
+    {
+      "content": "video",
+      "season": "7",
+      "parent": "gh",
+      "image": "https://album.mediaset.es/cimg/807010/2019/12/10/obixhu9cbzfa_ghvip7_gala14_f091.jpg",
+      "contentId": "14",
+      "category": "galas",
+      "id": "MDSVOD20191205_0237",
+      "video": {
+        "normal": "https://vbd.mitele.es/orivod/vod/lightflow/U4/M2/U4M2F2aTE6IPsLMHbAlHCQ0gpSaVNiLs/main.ism/picky.m3u8",
+        "backup": ""
+      },
+      "title": "Gala 14",
+      "desc": "Adara o Estela: una de las dos se convertirá en la cuarta y última finalista de GH VIP  7 (05/12/2019)."
+    },
+    {
+      "content": "video",
+      "season": "7",
+      "parent": "gh",
+      "image": "https://album.mediaset.es/cimg/807010/2019/12/16/s3ky65zolwpc_ghvip7_gala15b_4e49.jpg",
+      "contentId": "15",
+      "category": "galas",
+      "id": "MDSVOD20191212_0249",
+      "video": {
+        "normal": "https://vbd.mitele.es/orivod/vod/lightflow/pp/Nm/ppNmd3aTE6kcGvrhCKF5a9JY0yzS0C6B/main.ism/picky.m3u8",
+        "backup": ""
+      },
+      "title": "Gala 15",
+      "desc": "Durante la última gala de expulsiones antes de la final, descubriremos qué ocurrió en la noche de película de Adara y Gianmarco (12/12/2019)."
+    },
+    {
+      "content": "video",
+      "season": "7",
+      "parent": "gh",
+      "image": "https://album.mediaset.es/cimg/807010/2019/12/20/ghvip7_gala16b_013a.jpg",
+      "contentId": "16",
+      "category": "galas",
+      "id": "MDSVOD20191220_0014",
+      "video": {
+        "normal": "https://vbd.mitele.es/orivod/vod/lightflow/xj/cG/xjcG14aTE6_jq5iovP5CZKAhPkRdM5g2/main.ism/picky.m3u8",
+        "backup": ""
+      },
+      "title": "Gala 16",
+      "desc": "Mila, Adara o Alba. Una de las tres finalistas se convertirá en la ganadora de la séptima edición de 'GH VIP 7' (19/12/2019)."
+    }
+  ]
+}
