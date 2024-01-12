@@ -8,7 +8,7 @@
       "title": "Señal 1",
       "id": "senal-1",
       "cover": "https://album.mediaset.es/cimg/2024/01/11/ghduo-24h_da39.jpg",
-      "chat": "https://chat1.granhermano.cc/",
+      "chat": "https://chat1.realities.lol/",
       "video": {
         "normal": "",
         "backup": [
@@ -57,7 +57,7 @@
       "title": "Señal PLUS",
       "id": "senal-plus",
       "cover": "https://album.mediaset.es/cimg/2024/01/11/ghduo-24h-plus_da39.jpg",
-      "chat": "https://chat2.granhermano.cc/",
+      "chat": "https://chat2.realities.lol/",
       "enable": true,
       "video": {
         "dash": "https://directos.mediaset.es/oripremium05/live/premium05/mpd-cenc/mpd-cenc.isml/.mpd?t=1",
@@ -152,7 +152,7 @@
       "title": "Telecinco",
       "id": "telecinco",
       "cover": "https://album.mediaset.es/eimg/2019/12/11/bxL4goyXJpmn9qOT9bdBy4.jpg",
-      "chat": "https://chat2.granhermano.cc/",
+      "chat": "https://chat2.realities.lol/",
       "enable": false,
       "video": {
         "dash": "https://tvup-live.secure.footprint.net/telecincohd/telecincohd.mpd",
