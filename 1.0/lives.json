@@ -209,10 +209,20 @@
       "app": false,
       "custom_error": "Esta es una señal de pruebas",
       "drm": {
-        "clearkey": {
-          "keyId": "dce5deb54b865167800919adc9e02785",
-          "key": "1baeb5122a0d4c551b67342249eea325"
-        }
+        "clearkey": [
+          {
+            "keyId": "dce5deb54b865167800919adc9e02785",
+            "key": "1baeb5122a0d4c551b67342249eea325"
+          },
+          {
+            "keyId": "7e107183004d5751b412c16b79ad57ae",
+            "key": "2842b34a46e5564d5c8c63851c0e3074"
+          },
+          {
+            "keyId": "fd3d89fcb6915064a798c8b67a7c8052",
+            "key": "3c2728904658076c9ba84252d777f2e2"
+          }
+        ]
       },
       "drm_old": {
         "clearKeys": {
