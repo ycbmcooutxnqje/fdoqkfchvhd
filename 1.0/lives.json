@@ -128,7 +128,7 @@
       "id": "debate-plus",
       "cover": "https://album.mediaset.es/parrillas/2023/09/13/082247dd8031ea1248799507e3da2aa11694598614.jpg",
       "chat": "",
-      "enable": false,
+      "enable": true,
       "video": {
         "dash": "https://directos.mediaset.es/oripremium04/live/premium04/mpd-cenc/mpd-cenc.isml/.mpd?t=1",
         "normal": "",
@@ -153,7 +153,7 @@
       "id": "telecinco",
       "cover": "https://album.mediaset.es/eimg/2019/12/11/bxL4goyXJpmn9qOT9bdBy4.jpg",
       "chat": "https://chat2.realities.lol/",
-      "enable": false,
+      "enable": true,
       "video": {
         "dash": "https://tvup-live.secure.footprint.net/telecincohd/telecincohd.mpd",
         "normal": "",
