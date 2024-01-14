@@ -209,7 +209,7 @@
       "app": false,
       "custom_error": "Esta es una señal de pruebas",
       "drm": {
-        "clearkey": [
+        "clearKey": [
           {
             "keyId": "dce5deb54b865167800919adc9e02785",
             "key": "1baeb5122a0d4c551b67342249eea325"
