@@ -128,7 +128,7 @@
       "id": "debate-plus",
       "cover": "https://album.mediaset.es/cimg/2024/01/11/thumbnail-plus_da39-3.jpg",
       "chat": "https://chat2.realities.lol/",
-      "enable": true,
+      "enable": false,
       "video": {
         "dash": "https://directos.mediaset.es/oripremium04/live/premium04/mpd-cenc/mpd-cenc.isml/.mpd?t=1",
         "normal": "",
