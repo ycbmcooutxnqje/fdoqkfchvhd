@@ -200,7 +200,7 @@
       "id": "senal-pruebas",
       "cover": "",
       "chat": "https://chat2.realities.lol/",
-      "enable": true,
+      "enable": false,
       "video": {
         "dash": "https://tvup-live.secure.footprint.net/telecincohd/telecincohd.mpd",
         "normal": "",
