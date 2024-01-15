@@ -61,8 +61,8 @@
       {
         "title": "Galas",
         "id": "galas",
-        "cover": "https://album.mediaset.es/cimg/2023/09/15/ghvip-1_fd2a.jpg",
-        "enable": false
+        "cover": "https://album.mediaset.es/cimg/2024/01/12/ghduo-gala1_da39.jpg",
+        "enable": true
       },
       {
         "title": "Límite 48 horas",
@@ -73,8 +73,8 @@
       {
         "title": "Debates",
         "id": "debates",
-        "cover": "https://album.mediaset.es/cimg/2023/09/18/ghvipdebate-1_c060.jpg",
-        "enable": false
+        "cover": "https://i.imgur.com/NGFDjQU.png",
+        "enable": true
       },
       {
         "title": "Última Hora",
