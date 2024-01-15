@@ -85,8 +85,8 @@
       {
         "title": "Resúmenes diarios",
         "id": "resumenes",
-        "cover": "https://album.mediaset.es/cimg/2023/09/18/logopng-5_0034.jpg",
-        "enable": false
+        "cover": "hhttps://album.mediaset.es/cimg/2024/01/15/diarioghduo01plus_da39.jpg",
+        "enable": true
       }
     ],
     "parent": "gh-duo",
