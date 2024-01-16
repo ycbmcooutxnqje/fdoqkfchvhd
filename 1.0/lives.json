@@ -244,7 +244,7 @@
       "id": "senal-pruebas",
       "cover": "",
       "chat": "https://chat2.realities.lol/",
-      "enable": false,
+      "enable": true,
       "video": {
         "dash": "https://tvup-live.secure.footprint.net/telecincohd/telecincohd.mpd",
         "normal": "",
@@ -278,12 +278,12 @@
       "schedule": {
         "days": [0, 1, 2, 3, 4, 5, 6],
         "start_time": {
-          "hour": 0,
-          "minute": 0
+          "hour": 22,
+          "minute": 10
         },
         "end_time": {
-          "hour": 23,
-          "minute": 59
+          "hour": 22,
+          "minute": 25
         }
       }
     }
