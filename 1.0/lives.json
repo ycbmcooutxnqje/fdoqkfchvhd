@@ -51,7 +51,18 @@
       },
       "app": false,
       "custom_error": "La señal no se encuentra disponible, intenta más tarde",
-      "enable": true
+      "enable": true,
+      "schedule": {
+        "days": [0, 1, 2, 3, 4, 5, 6],
+        "start_time": {
+          "hour": 0,
+          "minute": 0
+        },
+        "end_time": {
+          "hour": 23,
+          "minute": 59
+        }
+      }
     },
     {
       "title": "Señal PLUS",
@@ -121,6 +132,17 @@
         "clearKeys": {
           "0abdd163b0a44ce3a81cb06b38396d9e": "a8a2e2554a0e18d2245b520eba50cdd0"
         }
+      },
+      "schedule": {
+        "days": [0, 1, 2, 3, 4, 5, 6],
+        "start_time": {
+          "hour": 0,
+          "minute": 0
+        },
+        "end_time": {
+          "hour": 23,
+          "minute": 59
+        }
       }
     },
     {
@@ -146,6 +168,17 @@
         "clearKeys": {
           "0abdd163b0a44ce3a81cb06b38396d9e": "a8a2e2554a0e18d2245b520eba50cdd0"
         }
+      },
+      "schedule": {
+        "days": [0],
+        "start_time": {
+          "hour": 21,
+          "minute": 25
+        },
+        "end_time": {
+          "hour": 22,
+          "minute": 0
+        }
       }
     },
     {
@@ -153,7 +186,7 @@
       "id": "telecinco",
       "cover": "https://album.mediaset.es/eimg/2019/12/11/bxL4goyXJpmn9qOT9bdBy4.jpg",
       "chat": "https://chat2.realities.lol/",
-      "enable": false,
+      "enable": true,
       "video": {
         "dash": "https://tvup-live.secure.footprint.net/telecincohd/telecincohd.mpd",
         "normal": "",
@@ -193,6 +226,17 @@
           "7e107183004d5751b412c16b79ad57ae": "2842b34a46e5564d5c8c63851c0e3074",
           "fd3d89fcb6915064a798c8b67a7c8052": "3c2728904658076c9ba84252d777f2e2"
         }
+      },
+      "schedule": {
+        "days": [0, 2, 4],
+        "start_time": {
+          "hour": 21,
+          "minute": 55
+        },
+        "end_time": {
+          "hour": 23,
+          "minute": 59
+        }
       }
     },
     {
@@ -229,6 +273,17 @@
           "dce5deb54b865167800919adc9e02785": "1baeb5122a0d4c551b67342249eea325",
           "7e107183004d5751b412c16b79ad57ae": "2842b34a46e5564d5c8c63851c0e3074",
           "fd3d89fcb6915064a798c8b67a7c8052": "3c2728904658076c9ba84252d777f2e2"
+        }
+      },
+      "schedule": {
+        "days": [0, 1, 2, 3, 4, 5, 6],
+        "start_time": {
+          "hour": 0,
+          "minute": 0
+        },
+        "end_time": {
+          "hour": 23,
+          "minute": 59
         }
       }
     }
