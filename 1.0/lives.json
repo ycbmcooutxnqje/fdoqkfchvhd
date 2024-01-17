@@ -507,12 +507,12 @@
         {
           "day": 3,
           "start": {
-            "hour": 0,
-            "minute": 0
+            "hour": 12,
+            "minute": 20
           },
           "end": {
-            "hour": 23,
-            "minute": 59
+            "hour": 12,
+            "minute": 25
           }
         },
         {
