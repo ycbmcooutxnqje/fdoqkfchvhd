@@ -369,8 +369,8 @@
         {
           "day": 0,
           "start": {
-            "hour": 22,
-            "minute": 0
+            "hour": 21,
+            "minute": 55
           },
           "end": {
             "hour": 23,
@@ -391,8 +391,8 @@
         {
           "day": 2,
           "start": {
-            "hour": 22,
-            "minute": 0
+            "hour": 21,
+            "minute": 55
           },
           "end": {
             "hour": 23,
@@ -413,8 +413,8 @@
         {
           "day": 4,
           "start": {
-            "hour": 22,
-            "minute": 0
+            "hour": 21,
+            "minute": 55
           },
           "end": {
             "hour": 23,
