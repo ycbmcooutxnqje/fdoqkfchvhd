@@ -326,7 +326,7 @@
       "chat": "https://chat2.realities.lol/",
       "enable": true,
       "video": {
-        "dash": "",
+        "dash": "https://tvup-live.akamaized.net/telecincohd/telecincohd.mpdhttps://tvup-live.akamaized.net/telecincohd/telecincohd.mpd",
         "normal": "",
         "backup": [
           {
